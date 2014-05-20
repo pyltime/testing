@@ -1,3 +1,3 @@
 test
 
-#plot(cars)
+plot(cars)
